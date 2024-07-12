@@ -20,7 +20,7 @@ Psudo-code:
 # Visualize medal distribution, athlete relationships, and gender correlations
 
 # Step 4: Predictive Modeling
-# Aggregate data for top countries based on medal counts
+# Generate data for top countries based on medal counts
 # Estimate future Olympic performance using aggregated data
 
 # Step 5: Conclusion
